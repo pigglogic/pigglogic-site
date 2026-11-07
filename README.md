@@ -24,8 +24,8 @@ The visual system uses native sans-serif typography, heather charcoal text, deni
 
 Chordstep has a small listing linking to `https://chordstep.com/`. Its product pages, app documentation, support, and app policies belong on that separate website; they are not built in this project.
 
-## Release updates
+## Maintenance
 
-Chordstep is marked **Coming soon** on the homepage. At release, update that label. Keep the company’s privacy policy aligned with the website’s hosting provider and correspondence practices.
+The Chordstep listing links to chordstep.com for product and release details. Keep the company’s privacy policy aligned with the website’s hosting provider and correspondence practices.
 
 The `CNAME` is preserved for GitHub Pages. Publish these files through the repository’s existing Pages configuration; no hosting migration is required.
